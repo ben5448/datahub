@@ -7,6 +7,10 @@
 
 ![DataHub](docs/imgs/datahub-logo.png)
 
+> :mega: First DataHub town hall meeting on March 6th, 10am-11am PST: 
+> - Video conference link: https://bluejeans.com/4642477444
+> - [Signup sheet & questions](https://docs.google.com/spreadsheets/d/1hCTFQZnhYHAPa-DeIfyye4MlwmrY7GF4hBds5pTZJYM)
+
 > :sparkles:Feb 2020 Update: 
 > - Our [blog post](https://engineering.linkedin.com/blog/2020/open-sourcing-datahub--linkedins-metadata-search-and-discovery-p) on open sourcing DataHub is out!
 > - *DataHub v0.3.0* is [released](https://github.com/linkedin/datahub/releases/tag/v0.3.0)!
@@ -36,21 +40,31 @@ This repository contains the complete source code for both DataHub's frontend & 
 
 Refer to [debugging guide](docs/debugging.md) if you have issues in any of the above steps.
 
-## Quicklinks
+## Documents
 * [DataHub Architecture](docs/architecture/architecture.md)
 * [DataHub Onboarding Guide](docs/how/entity-onboarding.md)
 * [Docker Images](docker)
-* [Frontend App](datahub-frontend)
-* [Web Client App](datahub-web)
+* [Frontend](datahub-frontend)
+* [Web App](datahub-web)
 * [Generalized Metadata Service](gms)
-* [Metadata Consumer Jobs](metadata-jobs)
 * [Metadata Ingestion](metadata-ingestion)
+* [Metadata Processing Jobs](metadata-jobs)
 
 ## Releases
 See [Releases](https://github.com/linkedin/datahub/releases) page for more details.
 
+## Roadmap
+Check out DataHub's [Roadmap](docs/roadmap.md).
+
 ## Contributing
 We welcome contributions from the community. Please refer to [the guidelines](CONTRIBUTING.md) for more details. We also have a [contrib](contrib) directory for incubation. 
 
-## Roadmap
-Check out DataHub's [roadmap](docs/roadmap.md).
+## Related Articles & Presentations
+* [DataHub: A Generalized Metadata Search & Discovery Tool](https://engineering.linkedin.com/blog/2019/data-hub)
+* [Open sourcing DataHub: LinkedIn’s metadata search and discovery platform](https://engineering.linkedin.com/blog/2020/open-sourcing-datahub--linkedins-metadata-search-and-discovery-p)
+* [The evolution of metadata: LinkedIn’s story @ Strata Data Conference 2019](https://speakerdeck.com/shirshanka/the-evolution-of-metadata-linkedins-journey-strata-nyc-2019)
+* [Journey of metadata at LinkedIn @ Crunch Data Conference 2019](https://www.youtube.com/watch?v=OB-O0Y6OYDE)
+* [Data Catalogue — Knowing your data](https://medium.com/albert-franzi/data-catalogue-knowing-your-data-15f7d0724900)
+* [How LinkedIn, Uber, Lyft, Airbnb and Netflix are Solving Data Management and Discovery for Machine Learning Solutions](https://towardsdatascience.com/how-linkedin-uber-lyft-airbnb-and-netflix-are-solving-data-management-and-discovery-for-machine-9b79ee9184bb)
+* [LinkedIn元数据之旅的最新进展—Data Hub](https://zhuanlan.zhihu.com/p/80459081)
+* [LinkedIn gibt die Datenplattform DataHub als Open Source frei](https://www.heise.de/developer/meldung/LinkedIn-gibt-die-Datenplattform-DataHub-als-Open-Source-frei-4663773.html)
