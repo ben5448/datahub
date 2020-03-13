@@ -1,19 +1,18 @@
 # DataHub: A Generalized Metadata Search & Discovery Tool
 [![Version](https://img.shields.io/github/v/release/linkedin/datahub?include_prereleases)](https://github.com/linkedin/datahub/releases)
 [![Build Status](https://travis-ci.org/linkedin/datahub.svg)](https://travis-ci.org/linkedin/datahub)
-[![License](https://img.shields.io/github/license/linkedin/datahub)](LICENSE)
-[![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/linkedin/datahub)
+[![Get on Slack](https://img.shields.io/badge/slack-join-orange.svg)](https://datahubspace.slack.com/join/shared_invite/zt-cl60ng6o-6odCh_I~ejZKE~a9GG30PA)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/linkedin/datahub/blob/master/CONTRIBUTING.md)
+[![License](https://img.shields.io/github/license/linkedin/datahub)](LICENSE)
 
 ![DataHub](docs/imgs/datahub-logo.png)
 
-> :mega: First DataHub town hall meeting on March 6th, 10am-11am PST: 
-> - Video conference link: https://bluejeans.com/4642477444
+> :mega: Next DataHub town hall meeting on March 20th, 10am-11am PST: 
 > - [Signup sheet & questions](https://docs.google.com/spreadsheets/d/1hCTFQZnhYHAPa-DeIfyye4MlwmrY7GF4hBds5pTZJYM)
+> - Details and recordings of past meetings can be found [here](docs/townhalls.md)
 
-> :sparkles:Feb 2020 Update: 
-> - Our [blog post](https://engineering.linkedin.com/blog/2020/open-sourcing-datahub--linkedins-metadata-search-and-discovery-p) on open sourcing DataHub is out!
-> - *DataHub v0.3.0* is [released](https://github.com/linkedin/datahub/releases/tag/v0.3.0)!
+> :sparkles:Mar 2020 Update: 
+> - We're on [Slack](https://datahubspace.slack.com/join/shared_invite/zt-cl60ng6o-6odCh_I~ejZKE~a9GG30PA) now! Ask questions and keep up with the latest announcement.
 
 ## Introduction
 DataHub is LinkedIn's generalized metadata search & discovery tool. To learn more about DataHub, check out our 
@@ -53,8 +52,8 @@ Refer to [debugging guide](docs/debugging.md) if you have issues in any of the a
 ## Releases
 See [Releases](https://github.com/linkedin/datahub/releases) page for more details.
 
-## Roadmap
-Check out DataHub's [Roadmap](docs/roadmap.md).
+## Features & Roadmap
+Check out DataHub's [Features](docs/features.md) & [Roadmap](docs/roadmap.md).
 
 ## Contributing
 We welcome contributions from the community. Please refer to [the guidelines](CONTRIBUTING.md) for more details. We also have a [contrib](contrib) directory for incubation. 
@@ -67,4 +66,6 @@ We welcome contributions from the community. Please refer to [the guidelines](CO
 * [Data Catalogue — Knowing your data](https://medium.com/albert-franzi/data-catalogue-knowing-your-data-15f7d0724900)
 * [How LinkedIn, Uber, Lyft, Airbnb and Netflix are Solving Data Management and Discovery for Machine Learning Solutions](https://towardsdatascience.com/how-linkedin-uber-lyft-airbnb-and-netflix-are-solving-data-management-and-discovery-for-machine-9b79ee9184bb)
 * [LinkedIn元数据之旅的最新进展—Data Hub](https://zhuanlan.zhihu.com/p/80459081)
+* [数据治理篇: 元数据之datahub-概述](https://www.jianshu.com/p/04630b0c63f7)
 * [LinkedIn gibt die Datenplattform DataHub als Open Source frei](https://www.heise.de/developer/meldung/LinkedIn-gibt-die-Datenplattform-DataHub-als-Open-Source-frei-4663773.html)
+* [Linkedin bringt Open-Source-Datahub](https://www.itmagazine.ch/artikel/71532/Linkedin_bringt_Open-Source-Datahub.html)
